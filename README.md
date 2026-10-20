@@ -1,6 +1,5 @@
 <!--
   GitHub Profile README for husnynajeeb
-  Keep this profile accurate and update the skills as you gain experience.
 -->
 
 <div align="center">
@@ -13,7 +12,7 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA8FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Development;Next.js+%7C+TypeScript+%7C+MongoDB;REST+APIs+%7C+Cloud+%7C+CI%2FCD;Learning+About+Agentic+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA8FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Development;Next.js+%7C+TypeScript+%7C+Node.js;Web+%7C+Mobile+%7C+Cloud;Interested+in+Agentic+AI"
     alt="Typing introduction"
   />
 
@@ -40,18 +39,17 @@
 name: Husny Najeeb
 location: Kandy, Sri Lanka
 role: Software Engineer
-currently_learning: Agentic AI
 interests:
   - Full-stack development
-  - API integration and system design
-  - Cloud technologies and CI/CD
-  - Applied machine learning and AI
+  - API development and system design
+  - Cloud technologies and DevOps
+  - Agentic AI and applied AI
 ```
 
-- 💻 Interested in building end-to-end applications, from backend logic and data workflows to user-facing interfaces.
-- 🔗 Experience developing CRM features, integrating external services, and working across frontend and backend components.
+- 💻 Passionate about building end-to-end applications, from backend systems to intuitive user interfaces.
+- 🔗 Interested in API integrations, database design, and developing scalable applications.
 - ☁️ Interested in cloud technologies, deployment automation, and reliable software delivery.
-- 🤖 Currently **learning about Agentic AI** and exploring how AI agents can be used to solve practical, real-world problems.
+- 🤖 Interested in **Agentic AI**, artificial intelligence, and practical AI-powered solutions.
 - 🧹 Value clean, maintainable code, thoughtful problem-solving, and continuous learning.
 
 <br />
@@ -60,57 +58,63 @@ interests:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### ⚙️ Backend
 
-**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%230F2044.svg?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%230F2044.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Prisma-%230F2044.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/WebSockets-%230F2044.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Python-%230F2044.svg?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+</p>
 
-<img src="https://img.shields.io/badge/Next.js-%230F2044.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-%230F2044.svg?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-%230F2044.svg?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-%230F2044.svg?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+### 🎨 Frontend & Web
 
-**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-%230F2044.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-%230F2044.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-%230F2044.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%230F2044.svg?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
 
-<img src="https://img.shields.io/badge/Node.js-%230F2044.svg?style=flat-square&logo=nodedotjs&logoColor=6DA55F" alt="Node.js" />
-<img src="https://img.shields.io/badge/REST_APIs-%230F2044.svg?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Python-%230F2044.svg?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Java-%230F2044.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+### 📱 Mobile
 
-**Databases**
+<p>
+  <img src="https://img.shields.io/badge/React_Native-%230F2044.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
 
-<img src="https://img.shields.io/badge/MongoDB-%230F2044.svg?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQL-%230F2044.svg?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL" />
+### 🗄️ Databases
 
-**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-%230F2044.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%230F2044.svg?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-%230F2044.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-%230F2044.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+</p>
 
-<img src="https://img.shields.io/badge/AWS-%230F2044.svg?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/CI%2FCD-%230F2044.svg?style=flat-square&logo=githubactions&logoColor=2088FF" alt="CI/CD" />
-<img src="https://img.shields.io/badge/GitHub_Actions-%230F2044.svg?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Docker-%230F2044.svg?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+### ☁️ Cloud & Tools
 
-**Tools & Integrations**
+<p>
+  
+  <img src="https://img.shields.io/badge/AWS-%230F2044.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-%230F2044.svg?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-%230F2044.svg?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-%230F2044.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+</p>
 
-<img src="https://img.shields.io/badge/Git-%230F2044.svg?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Twilio-%230F2044.svg?style=flat-square&logo=twilio&logoColor=F22F46" alt="Twilio" />
-<img src="https://img.shields.io/badge/OAuth-%230F2044.svg?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
+### 💻 Languages
 
-**AI & Learning**
-
-<img src="https://img.shields.io/badge/Learning_About-Agentic_AI-%230F2044.svg?style=flat-square&logo=openai&logoColor=white" alt="Learning About Agentic AI" />
-<img src="https://img.shields.io/badge/Machine_Learning-Exploring-%230F2044.svg?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Exploring Machine Learning" />
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%230F2044.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%230F2044.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-%230F2044.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%230F2044.svg?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-%230F2044.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%230F2044.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-%230F2044.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+</p>
 
 <br />
-
----
-
-## 💼 Experience Highlights
-
-- **Full-stack development:** Built CRM features for property management, lead requests, task management, and email functionality.
-- **Service integrations:** Worked with OAuth/IMAP email integration and CRM–PBX calling workflows involving FreePBX and Twilio.
-- **CI/CD:** Configured GitHub Actions workflows for automated deployments across development, staging, and production environments.
-- **Application workflows:** Worked across frontend and backend components, external service integrations, and data-processing workflows.
 
 ---
 
