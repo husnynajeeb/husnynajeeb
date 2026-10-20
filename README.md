@@ -13,13 +13,13 @@
   <br />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA8FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Development;Next.js+%7C+TypeScript+%7C+MongoDB;REST+APIs+%7C+Cloud+%7C+CI%2FCD;Currently+Learning+Agentic+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=7AA8FF&center=true&vCenter=true&width=560&lines=Full-Stack+Software+Development;Next.js+%7C+TypeScript+%7C+MongoDB;REST+APIs+%7C+Cloud+%7C+CI%2FCD;Learning+About+Agentic+AI"
     alt="Typing introduction"
   />
 
   <br /><br />
 
-  <a href="https://www.linkedin.com/in/husnynajeeb">
+  <a href="https://www.linkedin.com/in/husny-najeeb-961427249/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230F2044.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:husnynajeeb@gmail.com">
@@ -51,7 +51,7 @@ interests:
 - 💻 Interested in building end-to-end applications, from backend logic and data workflows to user-facing interfaces.
 - 🔗 Experience developing CRM features, integrating external services, and working across frontend and backend components.
 - ☁️ Interested in cloud technologies, deployment automation, and reliable software delivery.
-- 🤖 Currently learning **Agentic AI** and exploring how AI agents can help solve practical problems.
+- 🤖 Currently **learning about Agentic AI** and exploring how AI agents can be used to solve practical, real-world problems.
 - 🧹 Value clean, maintainable code, thoughtful problem-solving, and continuous learning.
 
 <br />
@@ -96,8 +96,8 @@ interests:
 
 **AI & Learning**
 
-<img src="https://img.shields.io/badge/Agentic_AI-Learning-%230F2044.svg?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI — Learning" />
-<img src="https://img.shields.io/badge/Machine_Learning-Exploring-%230F2044.svg?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Learning_About-Agentic_AI-%230F2044.svg?style=flat-square&logo=openai&logoColor=white" alt="Learning About Agentic AI" />
+<img src="https://img.shields.io/badge/Machine_Learning-Exploring-%230F2044.svg?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Exploring Machine Learning" />
 
 </div>
 
